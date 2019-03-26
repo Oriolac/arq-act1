@@ -1,2 +1,2 @@
-all: ordena_vector.c
-	gcc -Wall ordena_vector.c -o ordena_vector -ansi
+all: ordena_valors.c
+	gcc ordena_valors.c -o ordena_valors -ansi
